@@ -15,7 +15,7 @@ public class User {
     private String userName;
     private String telNum;
 
-    private User(){
+    public User(){
 
     }
 
